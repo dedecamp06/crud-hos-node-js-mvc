@@ -12,31 +12,16 @@ Create crud in back-end Node for tst
 - tediuous
 
 ## example res
-{
-	"count": 2,
-	"result": [
-		{
-			"id": 2,
-			"date": "2020-02-17",
-			"hour": "23:33",
-			"clientName": "Teste Client2",
-			"clientId": 3,
-			"doctorName": "Doctor",
-			"doctorId": 5,
-			"doctorSpeciality": "Cardiologia",
-			"status": "Executando"
-		},
-		{
-			"id": 3,
-			"date": "2020-02-17",
-			"hour": "23:33",
-			"clientName": "Teste Client2",
-			"clientId": 3,
-			"doctorName": "Doctor",
-			"doctorId": 5,
-			"doctorSpeciality": "Cardiologia",
-			"status": "Executando"
-		}
-	],
-	"statuscode": 200
-}
+ 1. {
+ 2.  "properties": 
+ 3.     {
+ 4.      "name": "Martin",
+ 5.      "bornOn": "1957-01-05"
+ 6.     },
+ 7.  "links": [
+ 8.     {
+ 9.      "rel": "bornIn",
+10.      "href": "http://www.scotland.org#"
+11.     } 
+12.  ]
+13. }
