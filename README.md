@@ -10,3 +10,9 @@ Create crud in back-end Node for tst
 - MVC
 - Nodemon
 - tediuous
+
+## To Start:
+- npm install
+- npx sequelize db:create
+- npx sequelize db:migrate
+Be happy :)
