@@ -1,7 +1,7 @@
 {
-  "name": "teste-hygia",
+  "name": "crud-hosp",
   "version": "1.0.0",
-  "description": "Crud Api de Hospital hygia",
+  "description": "Crud node hosp",
   "main": "index.js",
   "dependencies": {
     "cors": "^2.8.5",
