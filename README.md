@@ -1,5 +1,5 @@
-# apiHygiaTST
-Create crud in back-end Node for tst
+# api-cmv
+Create crud in node mvc
 ## technologies
 - Express
 - Sequelize 
